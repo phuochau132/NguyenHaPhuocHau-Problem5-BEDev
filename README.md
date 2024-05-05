@@ -29,3 +29,5 @@ Riven(NguyenHaPhuocHau)
 
 ## License
 This project is licensed under the ISC License.
+## Diagram to illustrate the flow of execution. 
+- Link to diagram: https://drive.google.com/file/d/1GR1NfM1uM924kQ5wmG43H-AnwmXjJt5J/view

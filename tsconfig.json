@@ -1,0 +1,13 @@
+{
+  "baseUrl": "./src",
+  "compilerOptions": {
+    "module": "nodenext",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "outDir": "./build",
+    "esModuleInterop": true
+  },
+  "files": ["./src/app.ts"]
+}
